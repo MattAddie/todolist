@@ -41,7 +41,7 @@ const GroceryComponent = () => {
 
   return (
     <div className="grocery-buddy">
-      <h1>Grocery Buddy</h1>
+      <h1>TO DO LIST</h1>
       <div className="input-section">
         <div className="input-container">
           <input
